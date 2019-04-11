@@ -1,6 +1,9 @@
 # vue-todo
+할 일 리스트
 
-> first vue project
+-vue C/R/U/D 작동 방식 파악
+
+-DB는 Local Storage를 이용.
 
 ## Build Setup
 
