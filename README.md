@@ -1,9 +1,9 @@
 # vue-todo
 할 일 리스트
 
--vue C/R/U/D 작동 방식 파악
+- Vue.js 기본적인 C/R/U/D 작동 방식 파악
 
--DB는 Local Storage를 이용.
+- DB는 Local Storage를 이용.
 
 ## Build Setup
 
